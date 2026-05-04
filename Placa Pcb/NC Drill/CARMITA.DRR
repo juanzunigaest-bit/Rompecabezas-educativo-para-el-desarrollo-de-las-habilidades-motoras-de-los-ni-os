@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: CARMITA.PcbDoc   4/9/2026  1:14:14 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : CARMITA.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.7mm)                                             Round             4         PTH        0.28inch (7.00mm)
+T2      32mil (0.8mm)                                             Round             21        PTH        11.29inch (286.78mm)
+T3      35mil (0.9mm)                                             Round             89        PTH        19.77inch (502.08mm)
+T4      39mil (1mm)                                               Round             45        PTH        18.12inch (460.30mm)
+T5      43mil (1.1mm)                                             Round             2         PTH        0.31inch (8.00mm)
+T6      55mil (1.4mm)                                             Round             10        PTH        14.32inch (363.63mm)
+T7      94mil (2.4mm)                                             Round             2         PTH        0.52inch (13.15mm)
+T8      118mil (3mm)                                              Round             4         PTH        9.96inch (253.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              177
+
+Total Processing Time (hh:mm:ss) : 00:00:00

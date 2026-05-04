@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: c:\net\data\arkservice\3ffa3dce-8ca9-462b-94ee-118a9db6b448\s\e\carmita\CARMITA.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width_1|Scope=Board|Minimum=13.78
+RuleKind=Width|RuleName=gnd|Scope=Board|Minimum=13.78
+RuleKind=Width|RuleName=VCC|Scope=Board|Minimum=13.78
+RuleKind=Width|RuleName=VIN|Scope=Board|Minimum=13.78
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=31.50
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=15.75
